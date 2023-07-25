@@ -1,0 +1,22 @@
+---
+title: "Adapting Layoff : How remote jobs  can offer a path forward"
+datePublished: Wed Jan 25 2023 06:30:44 GMT+0000 (Coordinated Universal Time)
+cuid: cldbaf383000q09jy3es99ke3
+slug: adapting-layoff-how-remote-jobs-can-offer-a-path-forward
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1674627894688/e838b63f-145c-4c1a-8cc1-35b55bd10789.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1674628080934/2d4c834f-8750-47d6-84c8-9582c075b0f6.jpeg
+tags: wemakedevs
+
+---
+
+The world in 2022 was an uplift battle for the world economy as well for the people in the corporate sector not only the people working in service based company but the product based company's employees also had to face the evil face of LAYOFF, with the FAANG individually cutting off more than 35,000 employees around the globe and some other companies such as Microsoft also laying off more than 11,000 employees left a bad impression not only for their employees but also enlightening the question for their employees and also for the newbies that "Does FAANG a nice option for them ? ". With the growing importance of open source and remote jobs people are now starting to know the real importance of remote jobs which can help them not only financially but also physically and mentally.
+
+Remote jobs are for sure not an easy nut to crack but they also create equal and huge opportunities for people irrespective of their college background and the degree they are holding. People busting their tails to enter into remote jobs with a huge boom are working on the various factors which can not only help them in building up an amazing profile, huge network, great projects, and contribution to the open source community which will eventually help them not only in remote jobs but might also help people if they want to enter into the big tech giants. Remote jobs comparatively provide much more comfort than these FAANG jobs with the comfort of working from their home without actually moving to other cities or even countries which can allow you to stay with your family in your home town and the tired process of renting up the home in some other city is been evacuated for sure. Strengthening your network will eventually lead to the building up of your community which might help you in the long run leading up to bringing you in contact and concentration of a lot of people which might help you to bring up new and big projects which might make a real distinguishable point in your resume & your profile.
+
+Apart from them all factor you might get a nice package which you might be looking for as , in India FAANG companies usually provide an entry package of nearly 20-30LPA onto another hand if we look for a person with a very nice profile, some great contribution to open source, nice network, events he might have conducted or win, then he will get an average entry package of more than 40-45 LPA & might even reach higher than 90 LPA or even +1CR if you came out to be a linchpin, which lightens up the burden of money in the long run thus helping u out to clear up all your financial expenses and building up a huge saving for you as well. Building up a nice network not only helps you to bring up nice projects and opportunities to you but might also help you in the future if you launch a product as an app or software or anything else depending on your niche.
+
+As a question, many might also think that if remote jobs are so beneficial for us then there are chances that in the future, competition might increase eventually and there might arise the chances of layoffs in this domain as well but, in actuality, it isn't that easy to enter into the remote jobs and sustain as the pathway to reach up to there isn't that easy for sure and a lot of people ends up loosing up in the very first experience, so it the cut-throat kinda competition isn't much expected to come into this field for sure at least for some years or decades.
+
+In the end, it all depends upon you in what way you stand apart from the rest of the crowd, even in your organization which eventually decides whether you are an asset to your company or not, in which factors are required to get into the remote jobs might get proved as a point of inflection in your carrier!!
+
+#wemakedevs
