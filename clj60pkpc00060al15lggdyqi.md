@@ -286,7 +286,8 @@ return
 
 //read the file 
 bs := make([]byte, stat.Size())
-_, err != nil{
+_, err = file.Read(bs)
+if err != nil {
 return
 }
 
@@ -305,15 +306,11 @@ Here is the code working cycle :-
     
 4. Next, the code uses the `Stat` method of the `file` variable, which returns a `FileInfo` value. `FileInfo` is an interface in the `os` package that provides information about a file.
     
-5. If an error occurs during the `Stat` operation (e.g., the file does not exist), it is handled, and the function returns.
+5. If an error occurs during the `Stat` operation (e.g., the file does not exist), it is handled, and the function returns. Assuming the `Stat` operation is successful, the code retrieves the file size from the `stat` variable using `stat.Size()`.
     
-6. Assuming the `Stat` operation is successful, the code retrieves the file size from the `stat` variable using `stat.Size()`.
+6. It then creates a byte slice (`bs`) with the size equal to the file size, in order to read the entire file content into memory. The `Read` method is then called on the `file` variable, which reads the contents of the file into the byte slice `bs`. The number of bytes read and any potential error are returned.
     
-7. It then creates a byte slice (`bs`) with the size equal to the file size, in order to read the entire file content into memory.
-    
-8. The `Read` method is then called on the `file` variable, which reads the contents of the file into the byte slice `bs`. The number of bytes read and any potential error are returned, but the code snippet is missing the assignment to the `err` variable in this line: `_, err != nil{`. It should be `_, err =` [`file.Read`](http://file.Read)`(bs)`. The code as it is would produce a syntax error.
-    
-9. Finally, the code converts the bytes in `bs` to a string (`str`) and prints it to the console.
+7. Finally, the code converts the bytes in `bs` to a string (`str`) and prints it to the console.
     
 
 reading file is pretty easy so to do it there's an easy alternative instead:
