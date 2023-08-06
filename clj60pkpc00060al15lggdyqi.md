@@ -403,9 +403,11 @@ return nil
 
 The function you pass to walk is called for every file and folder in the root folder(in this case, .). It's passed three arguments: path, which is the path to the file; info, which is the information for the file(the same information you get from using os.Stat); and err, which is any error that was received while walking the directory. The function returns and you can return `filepath.SkipDir` to stop walking immediately.
 
-That was all in this blog soon, i will be releasing a blog discussing about the Containers, Lists, Sorts, Hashes & Cryptography, Servers, creating packages, documentation, Testing and Concurrency.
-
 Hope you get to learn some out of this blog for which you came here for 😄
+
+That was all in this blog soon, but if you still want to learn about making of tests which is highly used in the domain for testing up the code before pushing it to the production and is highly used in chaos engineering as well, then here is the blog for that:-
+
+%[https://codechill.hashnode.dev/testing-in-go-increasing-efficiency-of-code] 
 
 If you like my Article then please react to it and connect with me on Twitter if you are also a tech enthusiast. I would love to collaborate with people and share the experience of tech😄😄.
 
