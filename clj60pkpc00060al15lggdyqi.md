@@ -324,7 +324,7 @@ import {
 }
 
 func main(){
-bs, err := iotil.ReadFile("text.txt")
+bs, err := ioutil.ReadFile("text.txt")
 if err != nil{
 return
 }
