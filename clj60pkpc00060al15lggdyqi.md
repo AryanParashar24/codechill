@@ -295,7 +295,26 @@ fmt.Println(str)
 }
 ```
 
-We use defer file.Close() right after opening the file to make sure the file is closed as soon as the function completes.
+Here is the code working cycle :-
+
+1. `os` package is imported to work with operating system-related functionalities.
+    
+2. In the `main` function, the code attempts to open a file named "test.txt" using [`os.Open`](http://os.Open) and assigns the result to the `file` variable. If an error occurs during the file opening process, it is handled, and the function returns.
+    
+3. After successfully opening the file, the code uses the `defer` keyword to ensure that the file is closed after reading its content. This is done to release resources associated with the file when the function finishes executing, whether it completes successfully or encounters an error.
+    
+4. Next, the code uses the `Stat` method of the `file` variable, which returns a `FileInfo` value. `FileInfo` is an interface in the `os` package that provides information about a file.
+    
+5. If an error occurs during the `Stat` operation (e.g., the file does not exist), it is handled, and the function returns.
+    
+6. Assuming the `Stat` operation is successful, the code retrieves the file size from the `stat` variable using `stat.Size()`.
+    
+7. It then creates a byte slice (`bs`) with the size equal to the file size, in order to read the entire file content into memory.
+    
+8. The `Read` method is then called on the `file` variable, which reads the contents of the file into the byte slice `bs`. The number of bytes read and any potential error are returned, but the code snippet is missing the assignment to the `err` variable in this line: `_, err != nil{`. It should be `_, err =` [`file.Read`](http://file.Read)`(bs)`. The code as it is would produce a syntax error.
+    
+9. Finally, the code converts the bytes in `bs` to a string (`str`) and prints it to the console.
+    
 
 reading file is pretty easy so to do it there's an easy alternative instead:
 
