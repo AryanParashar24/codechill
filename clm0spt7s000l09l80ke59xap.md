@@ -5,8 +5,8 @@ seoDescription: "In this blog, I will be starting with the basics of Linux Termi
 datePublished: Fri Sep 01 2023 16:14:50 GMT+0000 (Coordinated Universal Time)
 cuid: clm0spt7s000l09l80ke59xap
 slug: linux-foundation-certificate-training-01
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693583474624/2f9bc6ed-83b5-4442-b7b5-2bcbeb88f09a.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1693584383860/1eb49737-c395-4fc9-97b6-877cecd8e6d0.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693585220527/e12f40e9-f2b9-4213-b018-45883b262c84.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1693585248215/c3369ac6-a2d7-4820-9a24-1e11524d8fd5.jpeg
 tags: linux, system-architecture, hashnode, linux-basics, wemakedevs
 
 ---
