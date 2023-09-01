@@ -1,17 +1,17 @@
 ---
-title: "Linux Foundation Certificate- Training 01"
-seoTitle: "Linux Foundation Certificate- Training 01"
+title: "Linux Foundation Certified System Administrator- Training 01"
+seoTitle: "Linux Foundation Certified System Administrator- Training 01"
 seoDescription: "In this blog, I will be starting with the basics of Linux Terminal Command-line required for passing the Linux Foundation Certified Sys Administrator Exam."
 datePublished: Fri Sep 01 2023 16:14:50 GMT+0000 (Coordinated Universal Time)
 cuid: clm0spt7s000l09l80ke59xap
-slug: linux-foundation-certificate-training-01
+slug: linux-foundation-certified-system-administrator-training-01
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1693585220527/e12f40e9-f2b9-4213-b018-45883b262c84.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1693585248215/c3369ac6-a2d7-4820-9a24-1e11524d8fd5.jpeg
 tags: linux, system-architecture, hashnode, linux-basics, wemakedevs
 
 ---
 
-# Linux Foundation Certified System Administrator(LFCSA)
+# About LFCSA
 
 The Linux Foundation Certified System Administrator (LFCSA) is a certification program offered by the Linux Foundation. It's designed for individuals who want to demonstrate their skills and knowledge in Linux system administration. This certification is valuable for anyone pursuing a career in Linux administration or working with Linux-based systems.
 
@@ -171,62 +171,62 @@ The path is also written in the same way from up to down to the directory/ file 
 Now there are certain commands used to give certain required results as:
 
 1. ```bash
-     pwd
+      pwd
     ```
     
 
 "pwd" stands for Print working directory which will print the current directory we are working/ operating in, along with the path specified with it, like `/home/jason/Documents`.
 
 1. ```bash
-     cd/
+      cd/
     ```
     
     will move us to the root directory.
     
 2. ```bash
-     cd -
+      cd -
     ```
     
     Go to the previous directory.
     
 3. ```bash
-     cd
+      cd
     ```
     
     Go to the home directory.
     
 4. ```bash
-     cp [source][destination]
+      cp [source][destination]
     ```
     
     Here it is the format for copying the file from the source location to the destination.
     
 5. ```bash
-     cp -r [source][destination]
+      cp -r [source][destination]
     ```
     
     "r" stands for the recurser in the code which helps in copying the whole content from the source to the destination folder/ directory(copying everything in it).
     
 6. ```bash
-     mv [source][destination]
+      mv [source][destination]
     ```
     
     It is similar to the cut option in Windows used for Linux.
     
 7. ```bash
-     rm file_name
+      rm file_name
     ```
     
     To delete a file.
     
 8. ```bash
-     rm -r Invoices/
+      rm -r Invoices/
     ```
     
     Delete all the files, folders and sub-directories from the directory.
     
 9. ```bash
-     echo "Pic(1) was created" > Pictures/family.jpg
+      echo "Pic(1) was created" > Pictures/family.jpg
     ```
     
     The picture is created family\_dog.jpg with the tag "Pic(1) was created".
