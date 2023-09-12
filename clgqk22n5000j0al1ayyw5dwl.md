@@ -80,7 +80,7 @@ which are also the features of Kubernetes and requirements of Cloud-Native appli
 
 Kubernetes can be run on our system on the cloud service providers and can migrate from one provider to another provider.
 
-It can Replicate services, Scale those or put them on dedicated servers with Zero- Downtime, Self-Healing of clusters, Vlomes can be used, external storage, load balancing, access log, service discovering & can also store secret information like passwords.
+It can Replicate services, Scale those or put them on dedicated servers with Zero- Downtime, Self-Healing of clusters, Volumes can be used, external storage, load balancing, access log, service discovering & can also store secret information like passwords.
 
 # How is Kubernetes formed?
 
