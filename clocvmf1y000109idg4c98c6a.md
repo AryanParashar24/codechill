@@ -43,13 +43,13 @@ Now here to save a lot of time, **Lens AppIQ** enables developers to contribute 
 
 ### **Impact on Roles of Platform Engineers & Application Developers**
 
-**<mark>For Platform Engineer:</mark>**
+#### **<mark>For Platform Engineers:</mark>**
 
 So the main challenge for a Platform developer when the team scales up is to enable a developer and this normally results in building up an internal developer platform which takes up a lot of time in building with scripting, and tools that a developer can simply reuse or get access to some information about their clusters and applications.
 
 Lens AppIQ helps them to enable developers so a platform engineer can leverage these tools to enable the developers and then further, can offer compliance and set up policies ensuring all applications are running healthy and stand onto correct grounds in case of consumption WID listed container Registries.
 
-**<mark>For Developer:</mark>**
+#### **<mark>For Developers:</mark>**
 
 Developers can have access to information about their applications and clusters like the amount of memory and CPU consumption, their environment variables like python and node.js, and jump to see the logs, pods, deployments, Replica Sets, and how any of them are running or might be running earlier without happen to have any knowledge about them.
 
@@ -77,7 +77,7 @@ Earlier, we needed to set up SSH in the clusters, but in this developers don't n
 
 ---
 
-### Handling Errors
+### **Handling Errors**
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698665935557/e668b717-627b-4fc2-a0f0-1fcebe422808.png align="center")
 
@@ -89,7 +89,7 @@ Configuring a WebHook can a really tedious work to do, if we decide to do it man
 
 ---
 
-### Getting relevant Outcomes
+### **Getting relevant Outcomes**
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698666316673/88a2d60c-5a5f-410b-8d26-4c6d232c1687.png align="center")
 
@@ -141,3 +141,13 @@ Before downloading Lens AppIQ it is recommended to download or set up the Agent 
 ***<mark>Thus in this way, both of these roles can work together in a much interactive and effective way to plan out in this modern-day architecture.</mark> Platform Engineers thus simplify the process by simply maintaining infrastructure during compliance.***
 
 Otherwise, it would become kind of a blind situation for the developer as well as they won't be able to see what is going on in the cluster after they have deployed their application for the production to the platform engineering team.
+
+I will surely get some more insights and amazing use cases of this amazing tool Lens and some other tools as well to give a boost to the knowledge of CloudNative and ease out our lives with this amazing Software.
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1698670258360/1f563994-2f6e-409a-8181-e5f119ea19f8.gif align="center")
+
+If you like my Article then please react to it and connect with me on Twitter if you are also a tech enthusiast. I would love to collaborate with people and share the experience of tech😄😄.
+
+My Twitter Profile:
+
+[**Aryan\_2407**](https://twitter.com/Aryan_2407)
