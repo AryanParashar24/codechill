@@ -13,7 +13,9 @@ tags: cloud, software-development, kubernetes, cloud-computing, devops, hashnode
 
 Here in this blog, we will be learning about one of the major lightweight Kubernetes distribution k0s developed by the Lens (Mirantis).
 
-K0s is an Open Source streamlined, easy-to-install and versatile Kubernetes distribution developed by Lens, a part of Mirantis, which has gained prestigious CNCF Certification as a CNCF Certified cluster and Pips 140 certification, which is flexible and can run on any platform like a public cloud or private cloud, on hybrid, on-premise or multi-cloud whether it's on VMs, bare-metal servers.
+K0s is an [Open source](https://github.com/k0sproject/k0s) project and the successor of the [Pharos Kubernetes](https://k8spharos.dev/) distro that was also developed and maintained by the team. It is a streamlined, easy-to-install and versatile Kubernetes distribution developed by Lens, a part of Mirantis, which has gained prestigious CNCF Certification as a CNCF Certified cluster and Pips 140 certification, which is flexible and can run on any platform like a public cloud or private cloud, on hybrid, on-premise or multi-cloud whether it's on VMs, bare-metal servers.
+
+k0s is a modern, 100% upstream vanilla Kubernetes(**a basic, open-source version of Kubernetes that is maintained by the Kubernetes community**) distro that is designed and packaged without compromise. It is broadly applicable from local development to large-scale production deployments. It runs anywhere and everywhere, with no dependencies, and 1 line installation.
 
 For those who don't know about Kubernetes distributions, these are the packaged releases of Kubernetes, the Open Source container orchestrator. Kubernetes itself provides a set of core functionalities for container management, scaling and orchestration but a distribution includes Kubernetes along with additional tools, configuration and sometimes additional software for simple deployment, management and use.
 
