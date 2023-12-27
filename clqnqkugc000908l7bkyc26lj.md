@@ -62,6 +62,8 @@ These problems were being solved by the sector including programming and code to
 
 # Infrastructure as Code Introduction
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703681105912/018523e2-b679-488c-b0a9-04d4b4c85759.jpeg align="center")
+
 Infrastructure as Code helps in automating all of these tasks without getting to set up huge operation and admin teams. Some programs and applications programmed to perform all of these tasks, amongst which we have so many tools for handling different functionalities.
 
 ## Services & Functionalities:
