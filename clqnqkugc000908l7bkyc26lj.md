@@ -413,15 +413,7 @@ const (
 )
 ```
 
-1. **One Pipeline for Everyone:**
-    
-    ![](https://miro.medium.com/v2/resize:fit:875/1*5mJhC4ablu5UruxhdmE22Q.jpeg align="left")
-    
-    Pulumi lets you use one pipeline for Application code and Infrastructure code. Pulumi’s approach to infrastructure as code is great for continuous delivery because it uses source code to model cloud resources. This means updates to your cloud infrastructure can be reviewed, validated, and tested using the same process that you have today. For example, doing code reviews via Pull Requests, running code through linters or static analysis tools, and running unit and integration tests as appropriate. It all “just works” for your cloud infrastructure the same way it would for your application code.
-    
-    Pulumi can easily integrate into any continuous integration/continuous delivery (CI/CD) system.
-    
-2. **Pulumi has a secret storage:**
+1. **Pulumi has a secret storage:**
     
     It safeguards all sensitive data using integrated secret storage. This secret storage solution seamlessly functions across various deployment scenarios, whether you are using hosted Pulumi Service, the Self-Hosted Pulumi Service, or a self-managed backend. When you create a stack using ‘pulumi new’ or ‘pulumi stack init,’ the Pulumi Service automatically protects secrets. If you opt for a self-managed backend like AWS S3 or Google Cloud Storage, secrets are secured through a passphrase that you define when initiating a new stack with ‘pulumi new.’ Regardless of the scenario, each Pulumi stack receives a unique encryption key. Unlike Terraform which requires integration with a third-party solution to manage secrets.
     
@@ -431,15 +423,15 @@ const (
     
     It’s fair to say that both tools can be used securely, but Pulumi does provide a little more security out-of-the-box. Beyond that, it’s only a matter of setup and price for both SaaS offerings.
     
-3. **Addressing Challenges in Cloud Infra. Management:**
+2. **Addressing Challenges in Cloud Infra. Management:**
     
     In the ever-evolving realm of cloud services, the intricacies of managing complex cloud architectures and developing internal platforms emerge as formidable challenges. Pulumi emerges as a powerful solution, offering a programmatic interface that empowers teams to seamlessly provision and control infrastructure. By bridging familiarity and efficiency, Pulumi becomes a vital tool in overcoming the complexities associated with modern cloud environments and internal platform development.
     
-4. **Transforming Infrastructure Management:**
+3. **Transforming Infrastructure Management:**
     
     As said in the previous points due to it's collaboration with general languages not only streamlines the learning curve for developers but also amplifies the flexibility and potency of infrastructure as code, setting it apart from the crowd and redefining the landscape of infrastructure management.
     
-5. **One Pipeline for Everyone:**
+4. **One Pipeline for Everyone:**
     
     ![](https://miro.medium.com/v2/resize:fit:875/1*5mJhC4ablu5UruxhdmE22Q.jpeg align="left")
     
@@ -447,7 +439,7 @@ const (
     
     Pulumi can easily integrate into any continuous integration/continuous delivery (CI/CD) system.
     
-6. **Community Support and high Engagement:**
+5. **Community Support and high Engagement:**
     
     Pulumi's ideal market consists of software engineers and platform engineering teams. These professionals benefit the most from Pulumi's approach, as they can leverage their existing coding skills to manage cloud resources more effectively. Getting involved with Pulumi's [**open source projects**](https://github.com/pulumi/pulumi), contributing to the development and enhancement of this groundbreaking platform can leverage our experience with Infrastructure as Code.
     
