@@ -33,7 +33,7 @@ At the other end of the software delivery pipeline, developers can make requests
 
 Kubiya’s AI platform — which perfectly mixes generative and conversational AI — can empower developers to have self-service access to resources they need to ship their code into production safely and predictably. It minimizes risk and the possibility of errors. In addition, it can also trigger a peer review before committing changes and send real-time alerts for proactive action when something goes wrong.
 
-[Kubiya.ai](http://Kubiya.ai) helps in automating platform that helps organizations streamline their DevOps processes, capture knowledge of operations and workflows, and extend those to end-users via conversational AI. The platform is designed to simplify complex processes by automating repetitive tasks and providing real-time insights into the performance of your IT infrastructure. [Kubiya.ai](http://Kubiya.ai) combines the power of embedded large language models, machine learning, and natural language processing to create a platform that is easy to use and can be customized to meet the unique needs of any organization. If you were to prompt a ChatGPT command to create a doppelganger in its likeness but with domain specific expertise in DeVOps - Kubiya would be the result. 
+[Kubiya.ai](http://Kubiya.ai) helps in automating platform that helps organizations streamline their DevOps processes, capture knowledge of operations and workflows, and extend those to end-users via conversational AI. The platform is designed to simplify complex processes by automating repetitive tasks and providing real-time insights into the performance of your IT infrastructure. [Kubiya.ai](http://Kubiya.ai) combines the power of embedded large language models, machine learning, and natural language processing to create a platform that is easy to use and can be customized to meet the unique needs of any organization. If you were to prompt a ChatGPT command to create a doppelganger in its likeness but with domain specific expertise in DeVOps - Kubiya would be the result.
 
 ## Kubi: The Conversational - AI of DevOps
 
@@ -41,13 +41,13 @@ Kubiya’s AI platform — which perfectly mixes generative and conversational A
 
 With the release of new generation conversational AI, developer teams are able to perform their DevOps Tasks through normal conversation by Kubi. Kubi leverages a groundbreaking agent framework that democratizes the self-service of complex tasks, queries, and operations through simple conversations.
 
-This innovation dramatically shifts the developer experience by affording every user their own personalized conversational-AI powered DevOps assistant, allowing seamless communication with their engineering platform in natural language, transforming the way developers and organizations work. The standout feature of Kubiya's next generation is the ability to chain together multiple purpose-built agents, each with domain specific knowledge and trained on fine-tuned LLMs, connected by a mental model, allowing it to execute complex end-to-end operations as if it were a DevOps engineer. This chain of thought closely mirrors the human brain's neural network, where different lobes work together to perform tasks. 
+This innovation dramatically shifts the developer experience by affording every user their own personalized conversational-AI powered DevOps assistant, allowing seamless communication with their engineering platform in natural language, transforming the way developers and organizations work. The standout feature of Kubiya's next generation is the ability to chain together multiple purpose-built agents, each with domain specific knowledge and trained on fine-tuned LLMs, connected by a mental model, allowing it to execute complex end-to-end operations as if it were a DevOps engineer. This chain of thought closely mirrors the human brain's neural network, where different lobes work together to perform tasks.
 
 These are some of the targeted advantages brought to the community by the awesome team of Kubiya:
 
 **<mark>Seamless Onboarding</mark>**
 
-The Kubiya team built a new seamless onboarding experience allowing you to get setup in minutes. Simply install Kubiya in their Slack workspace, accept the invitation to join, install the Kubiya CLI runner, and deploy actions. 
+The Kubiya team built a new seamless onboarding experience allowing you to get setup in minutes. Simply install Kubiya in their Slack workspace, accept the invitation to join, install the Kubiya CLI runner, and deploy actions.
 
 **<mark>Workless workflows</mark>**
 
@@ -55,7 +55,7 @@ Our users spoke and we listened! Our next generation conversations don’t requi
 
 **<mark>‍Intelligent Agent - Kubi</mark>**
 
-Next Gen has the ability to chain together multiple purpose-built agents, each with domain specific knowledge and trained on fine-tuned LLMs, connected by a mental model, allowing it to execute complex end-to-end operations as if it were a DevOps engineer. This chain of thought closely mirrors the human brain's neural network, where different lobes work together to perform tasks. As a result, Kubi  has memory and the ability to context switch all in the flow of a natural conversation. And to ensure Kubi feels part of the team, we have now added the ability for him to respond in public channels. 
+Next Gen has the ability to chain together multiple purpose-built agents, each with domain specific knowledge and trained on fine-tuned LLMs, connected by a mental model, allowing it to execute complex end-to-end operations as if it were a DevOps engineer. This chain of thought closely mirrors the human brain's neural network, where different lobes work together to perform tasks. As a result, Kubi  has memory and the ability to context switch all in the flow of a natural conversation. And to ensure Kubi feels part of the team, we have now added the ability for him to respond in public channels.
 
 **<mark>Events Based Actions:</mark>**
 
@@ -75,7 +75,7 @@ But Kubi can do more than that: It can also create new Terraform to provision ne
 
 **<mark>Integrations to BigBucket, GitLab and ArgoCD support:</mark>**
 
-Kubiya adds integrations for ArgoCD, BitBucket, and GitLab. 
+Kubiya adds integrations for ArgoCD, BitBucket, and GitLab.
 
 * ArgoCD - deploy images, restart applications, check or update deployment status, define configurations
     
@@ -126,3 +126,13 @@ You should see the newly installed Kubiya app in your Slack workspace — with a
 Think of Kubiya as your DevOps teammate that can enable your team to simplify complex operations through human-like conversations. Although it features ChatGPT-like functionality, Kubiya goes beyond that, actually implementing and making changes to production clusters. It simultaneously delivers a self-service experience for developers while reducing the burden on the Ops team — all the while ensuring a simple and secure DevOps workflow automation.
 
 Get connected with the community and get latest updates and events announcements: [https://www.uptime.kubiya.ai/](https://www.uptime.kubiya.ai/)
+
+Soon, I will be sharing more detailed features and releases of Kubiya.ai and other tools integrating different Tech Stacks like DevOps, Machine Learning, LLMs, CloudNative and a lot more.....
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704227601619/039ddf6c-e7c3-42b2-8349-902d1a0dbfb4.gif align="center")
+
+If you like my Article then please react to it and connect with me on Twitter if you are also a tech enthusiast. I would love to collaborate with people and share the experience of tech😄😄.
+
+My Twitter Profile:
+
+[**Aryan\_2407**](https://twitter.com/Aryan_2407)
