@@ -21,7 +21,7 @@ Keycloak also joined CNCF as one of it's incubating project in April 2023 due to
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1704256947269/4e1afcac-3864-47f0-ade1-4925345e3111.png align="center")
 
-Before moving any forward to OAuth and Open ID Connect, let's first discuss and overview the [Keycloak](https://www.keycloak.org/):  
+Before moving any forward to OAuth and Open ID Connect, let's first discuss and overview the [Keycloak](https://www.keycloak.org/):
 
 # Keycloak
 
@@ -104,6 +104,8 @@ This method provides the least amount of security as if you use a third-party de
 ## OAuth
 
 To get rid of the problems faced by Basic Authentication, OAuth was introduced in 2007 which is an open standard that allows users to grant access to applications without sharing passwords with them.
+
+OAuth, which stands for Open Authorization, is an open standard and protocol that provides secure, token-based authorization for third-party applications to access resources on behalf of a user without exposing their credentials. It is widely used as an authorization framework in the context of web and mobile applications, enabling users to grant limited access to their resources without sharing their username and password with the third-party application.
 
 The latest version in use is OAuth2.0 which is adopted by several big Champs of the industry like Amazon, Google, Stripe, Facebook, GitHub and Slack. It also allows API providers' users to grant selective permissions. All different applications have different resource requirements from their users and the OAuth framework enables API providers to grant access to one or more resources.
 
