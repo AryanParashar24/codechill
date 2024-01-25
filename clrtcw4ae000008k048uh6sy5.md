@@ -144,6 +144,12 @@ Lens Autopilot provide the collaboration a lot of CNCF Landscape projects as sta
 
 By adopting PaaS, users can seamlessly integrate their preferred components or tools for various purposes, such as enhancing security measures, optimizing logging strategies, and streamlining CI/CD pipelines. This ensures that Lens AutoPilot remains adaptable to diverse use cases and can be tailored to the specific requirements of different environments.
 
+For more information on Lens Autopilot head on to:
+
+Mirantis Youtube: [https://www.youtube.com/@MirantisUS](https://www.youtube.com/@MirantisUS)
+
+Lens Autopilot hands-on practice through webinar: [https://www.youtube.com/watch?v=KyFDRSvBUOo](https://www.youtube.com/watch?v=KyFDRSvBUOo)
+
 Hope you have got some information added to your knowledge and got some more security tooling choices for your application, soon I will be posting more in-depth information about the Lens Autopilot and many other CNCF landscape tools and applications until then keep grinding🔥.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1706196957304/61defcc4-4691-47ea-bf85-d1315f6e186e.gif align="center")
