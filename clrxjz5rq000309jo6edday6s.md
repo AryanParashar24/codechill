@@ -13,6 +13,8 @@ tags: software-development, security, kubernetes, devops, software-engineering
 
 CloudNative SecurityCon is the first Vendour-neutral practitioners-driven conference on Security where we get to know how to enable software security and teach others to do the good work in the community.
 
+With Cloud Native Security Con taking place soon in June 26-27 this year in 2024 which can contribute high in uplifting your carrier through Security, it's important to take a glimpse how does the CloudNative SecurityCon took place in 2023 and which contributions it produced through all the developers and folks through collaborations, talks, personnel experiences of their success, failures and learnings.
+
 Cloud Native SecurityCon is first event with a global community of developers and security experts to tackle issues of security together and share our own experiences of success, failures and learnings with the helps of collected information, understanding and then solving them with other practitioners in the domain.
 
 ![Report by /Data CNCF CloudNative SecurityCon](https://cdn.hashnode.com/res/hashnode/image/upload/v1706447869164/3ca4945d-e227-4493-ac62-237b1fe2a19e.png align="center")
@@ -69,6 +71,16 @@ sigstore is the industry collaboration of this multi-vendor open source industry
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1706448821684/c61dce95-3cc5-4462-8fb1-68f9f5aade2b.png align="center")
 
 sigstore stands with the collaboration with Open SSH, cisco, GitHub, Google, Hewlett-Packard (HP), Red Hat and VMware. it is a direct result of open, multi-vendor collaboration with transparent digital signature across open source and customer environment as well to ensure we are building a modular, inter operable solution which can provide security benefits to entire software supply chain.
+
+For more information, visit the CloudNative SecurityCon North America playlist to get to solve up your doubts about the Security in Cloud and infrastructure:
+
+Youtube Channel: [https://www.youtube.com/@cncf](https://www.youtube.com/@cncf)
+
+Playlist: [https://www.youtube.com/playlist?list=PLj6h78yzYM2NQ-Zi\_k5qVmZyxSmLBzM6V](https://www.youtube.com/playlist?list=PLj6h78yzYM2NQ-Zi_k5qVmZyxSmLBzM6V)
+
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1706450990093/e3138027-062c-40db-b603-e9b19fc07a88.png align="center")](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/)
+
+Get your tickets booked for the CloudNatiev SecurityCon 2024 through: [https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/](https://events.linuxfoundation.org/cloudnativesecuritycon-north-america/)
 
 Soon, I will be publishing blogs explaining how to secure supply lines and zero trust Architecture at Production level in the next blogs and how to Navigate in the CNCF Landscape with different projects in the same section of it's functionalities offering same mechanisms with different approaches with new addition of tools and extensions to bring up a better security posture infrastructure for your application and platforms.
 
