@@ -7,7 +7,7 @@ cuid: clsbvufex00020ajs8i8y8pdv
 slug: web-assembly-evolution-to-containers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1707314047627/fc4cdd57-d8d0-4174-8e91-707480eed068.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1707315871654/b9b9cdb0-5a6e-45ce-a46e-dd26172194ee.jpeg
-tags: cloud, docker, webassembly, kubernetes, cloud-computing, devops
+tags: cloud, docker, security, webassembly, kubernetes, cloud-computing, devops
 
 ---
 
@@ -171,6 +171,14 @@ Bytecode alliance is a non-profit organization dedicated to creating secure New 
 Thus, it is the foundation for Web Assembly ecosystem, certain organization like Amazon, Cisco, Anaconda, arm, candle and cosmonic are working towards the standardization of Web Assembly projects. There have been many projects adopted in Bit code Alliance like Wasmtime, Cranelift, WAMR and Javy to maintain the security and the sandboxing for the Web Assembly projects.
 
 Byte Alliance have TOC and have been putting efforts for team discussion, team formation form different organization who are working in the Web Assembly ecosystem on different runtime, who are collaborating on all **w3c** standards with respect to Web Assembly on component model of WASI ecosystem on the AI inferterfacing standardization and are trying with the same foundation so that everyone agrees. Byte Code is same as what CNCF is for Kubernetes.
+
+---
+
+In case, you want to get in-depth knowledge about the Web Assembly, it's use cases, hands-on practice, future predictions and how big it can impact the domain then head on to the amazing course by @[Saiyam Pathak](@Saiyampathak) on his Youtube channel KubeSimplify, where he regularly publish videos and content on amazing projects, platforms and services on CloudNative, Kubernetes, DevOps, Platform Engineering and many other tech stacks for better observability, scalability, security, monitoring, AI-LLMs and sustainability.
+
+Web Assembly Course by KubeSimplify: [https://www.youtube.com/watch?v=eYekV2Do0YU&t=1s](https://www.youtube.com/watch?v=eYekV2Do0YU&t=1s)
+
+KubeSimplify Youtube Channel: [https://www.youtube.com/@kubesimplify](https://www.youtube.com/@kubesimplify)
 
 Hope you get to know about this game changing tool which is gathering a lot of popularity due to it's high security feature, language-agnostic and smaller binaries features. Soon, I will be releasing more blogs with in-depth information about Web Assembly.
 
