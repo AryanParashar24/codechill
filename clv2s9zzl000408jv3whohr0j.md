@@ -11,7 +11,7 @@ tags: cloud, kubernetes, cloud-computing, devops, sustainability
 
 ---
 
-Kepler is a CNCF Sandbox project to measure energy consumptions to minimize the environmental impacts of workloads on the Cloud and identify the possible scanerio to figure out the opportunity to reduce the CO2 emissions.
+Kepler is a CNCF Sandbox project to measure energy consumptions to minimize the environmental impacts of workloads on the Cloud and identify the possible scanerio to figure out the opportunity to reduce the CO2 emissions. It uses **eBPF** to probe energy related system stats and exports as Prometheus metrics.
 
 It is a tool to manage your consumptions of applications which is a partnership between IBM and Red Hat. Efforts are being made to export Kepler Matric with Open Telemetry especially on edge case. Now, there are huge efforts been taken by the huge organizations and even the European Union (EU) have been taking alot of steps to cut short the unnecessary consumption of CO2 or carbon emission and for a lot of AI workloads to tackle the main problems like:
 
