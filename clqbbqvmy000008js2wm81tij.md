@@ -11,7 +11,7 @@ tags: cloud, software-development, software-architecture, kubernetes, cloud-comp
 
 ---
 
-In this blog, we will be learning about the K0s Motron: Kubernetes an operator-based multi-cluster manager that can deliver lots of Kubernetes clusters, dynamically, with minimum operations headaches in a few minutes!!
+In this blog, we will be learning about the K0s Motron: Kubernetes Control-Plane Manager an operator-based multi-cluster manager that can deliver lots of Kubernetes clusters, dynamically, with minimum operations headaches in a few minutes!!
 
 k0s Kubernetes is a CNCF-validated, easily customized, single-binary, almost-no-dependencies Kubernetes distribution that installs with one command pretty much anywhere (i.e., Intel or ARM, down to 512MB RAM, any popular Linux, in containers, etc.). The k0s project prides itself on keeping up with [kubernetes.io](https://github.com/k0sproject/k0sctl): security patches in under 72 hours, minor releases validated and provided to users in days. k0s deploys with one command anywhere, and brings along its own CLI and kubectl – with additional open-source deployment and operations tools available for download from Mirantis, e.g., [k0sctl](https://github.com/k0sproject/k0sctl), [Lens Desktop](https://k8slens.dev/)).
 
