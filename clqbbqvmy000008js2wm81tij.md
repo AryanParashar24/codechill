@@ -30,27 +30,27 @@ K0s is an open-source project, developed by Mirantis which can manage the life c
 
 K0smotron offers a groundbreaking solution by enabling the creation and management of clusters within an existing Kubernetes cluster. This innovative approach provides unparalleled scalability and flexibility, especially in scenarios where multiple clusters need to coexist. The ability to maintain a homogenous setup for all control planes significantly eases the maintenance burden, ensuring consistency and efficiency across your Kubernetes environment.
 
-1. **True Separation of Control and Worker Planes:**
+2. **True Separation of Control and Worker Planes:**
     
 
 One of the standout features of k0smotron is the true separation of control and worker planes. Similar to leading cloud providers, the control plane, residing in an existing cluster, operates without direct networking connections to the worker plane. This robust architecture enhances security and aligns with best practices, offering a level of isolation that ensures the reliability and integrity of your Kubernetes clusters.
 
-1. **Bring Your Workers for Ultimate Flexibility:**
+3. **Bring Your Workers for Ultimate Flexibility:**
     
 
 K0smotron introduces the revolutionary concept of bringing your own worker nodes from ANY infrastructure to your cluster's control plane. This flexibility breaks down infrastructure silos, allowing seamless integration of worker nodes regardless of their origin. The result is a versatile and adaptable Kubernetes environment that can harness resources from diverse infrastructures.
 
-1. **CI/CD Agility with On-Demand Clusters:**
+4. **CI/CD Agility with On-Demand Clusters:**
     
 
 For CI/CD workflows, k0smotron emerges as a game-changer. The ability to create and delete control planes on-demand simplifies integration and end-to-end testing. No longer constrained by long-lived snowflake clusters, CI processes become dynamic and agile. Creating a control plane becomes as easy as defining a custom resource, bringing a new level of efficiency to CI/CD pipelines.
 
-1. **Edge Computing Made Accessible:**
+5. **Edge Computing Made Accessible:**
     
 
 Deploying Kubernetes on the network edge can be challenging due to resource constraints. K0smotron addresses this challenge by allowing the control plane to run on an existing cluster, even on a separate dedicated infrastructure. This not only removes hurdles but also empowers teams to focus on the true edge computing challenges, making edge deployment accessible and efficient.
 
-1. **Multi-Cloud Mastery:**
+6. **Multi-Cloud Mastery:**
     
 
 In the era of multi-cloud environments, k0smotron stands out by enabling the management of control planes (Mothership) in one cloud provider while deploying workloads across various others. This strategic approach streamlines multi-cloud operations, offering a cohesive and efficient strategy for organizations embracing the advantages of multiple cloud providers.
