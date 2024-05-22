@@ -59,7 +59,7 @@ In the era of multi-cloud environments, k0smotron stands out by enabling the man
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702915107732/8a0b25a9-bc00-4928-b77e-a358335b0416.png align="center")
 
-If we have free controllers to deploy applications on free nodes that can stand up to 1, 2, 3 or even more and similarities in Workload Clusters, which will be replicating the controllers and then taking as many worker nodes required to store the application in the child clusters of the same node.
+If we have three controllers to deploy applications on free nodes that can stand up to 1, 2, 3 or even more and similarities in Workload Clusters, which will be replicating the controllers and then taking as many worker nodes required to store the application in the child clusters of the same node.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1702919143732/f9825199-65e9-4596-b906-7c34028c9d75.png align="center")
 
