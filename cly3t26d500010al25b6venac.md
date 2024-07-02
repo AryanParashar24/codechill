@@ -13,6 +13,8 @@ tags: cloud, security, kubernetes, cloud-computing, devops, ebpf
 
 In the ever-evolving landscape of Kubernetes and cloud-native architectures, network security and efficiency have become paramount. This article explores the Cilium Gateway API, a cutting-edge solution that goes beyond the traditional Envoy proxies, to deliver enhanced performance, security, and flexibility.
 
+Cilium is a successfully graduated project by Cloud Native Foundation which is responsible for building many such amazing project under Isovalent which are evolving the whole Cloud Native & DevOps world by higher Security, Sustainability and Integrations.
+
 ## Embedded Envoy Proxies
 
 Cilium already uses Envoy for Layer7 (L7) policy and observability for some protocols and this same component is used as a sidecar in many popular Service Mesh implementations.
@@ -204,6 +206,12 @@ Cilium's own Load Balancer provide IP add management (IPAM) and Layer 2 announce
     
 * **Secure Cloud-Native Environments**: Provides security and observability features to monitor and protect cloud-native applications.
     
+
+I have also written a detailed blog on **<mark>Cilium, eBPF and Isavalent</mark>** other projects which was highly loved by all of you guys😄. So in case you want to learn more about them then have a look at my blog below:
+
+%[https://codechill.hashnode.dev/cilium-next-generation-networking-security-of-cncf-with-golang-ebpf-hubble] 
+
+Also, eBPF is goin to organize an event on 11th September so don't forget to grab you Virtual seats at the event 😄 : [https://ebpf.io/summit-2024/](https://ebpf.io/summit-2024/)
 
 Soon I will be releasing more detailed and more described blogs on Cilium, eBPF and similar kind of really important tech like Kafka, WASM, AI-LLM collaborations and many other important topics, frameworks and projects which can create an impulsive effect on our developing cycle and security.
 
