@@ -42,23 +42,43 @@ Earlier for a development process, there were a lot more processes involved and 
 9. Once we settled them up, to maintain we were required to update versions, deploy new version release, DB backups/ updates, recover apps and add/ recover servers.
     
 
-All of these development processes decrease the efficiency drastically and slow down development process, expensive, limits Automation and have very slow scalability possibility.
+**All of these development processes decrease the efficiency drastically and slow down development process, expensive, limits Automation and have very slow scalability possibility.**
 
 It is highly Inconsistent and servers are sized depending on peak utilization so waste a lot of resources. Unavailability to scale up or down supply means these resources won't be used during off-peak hours.
 
 ## Modern Solution
 
-Thus, most of the organizations have moved to the virtualization of these resources to limit these disadvantages and work efficiently such as Microsoft Azure, Amazon AWS, Google cloud platform, with cloud we don't have to worry about most of the things like database center, hardware assets and storage aren't required to look into if we are on cloud as all of these taken care by cloud providers.
+Thus, most of the organizations have moved to the virtualization of these resources to limit these disadvantages and work efficiently such as **<mark>Microsoft Azure, Amazon AWS, Google cloud platform</mark>** <mark> as with cloud we don't have to worry about most of the things like database center, hardware assets and storage </mark> and these advantages helped the developers and teams as:
 
-Virtual machines can be spun up in the minutes saving up a lot of days, weeks, months compared to earlier and time to market reduced from months to weeks or even days in cloud environment. Human requirements are also reduced saving up money, cloud provides a way to use APIs, which opens a whole new world of security and finally, the build in Auto Scaling and elastic functionality of cloud infrastructure reduces resources wastage.
+1. Virtual machines can be spun up in the minutes saving up a lot of days, weeks, months compared to earlier and time to market reduced from months to weeks or even days in cloud environment.
+    
+2. Human requirements are also reduced saving up money.
+    
+3. Cloud provides a way to use APIs, which opens a whole new world of security.
+    
+4. The build in Auto Scaling and elastic functionality of cloud infrastructure reduces resources wastage.
+    
 
-With virtualization and cloud we can now provide infrastructure within few clicks which considerably saves up a lot of time and efforts from traditional methods, still having management console for resource provisioning is not always the ideal solution.
+Thus, with virtualization and cloud we can now provide infrastructure within few clicks which considerably saves up a lot of time and efforts from traditional methods, still having management console for resource provisioning is not always the ideal solution.
 
-It's okay to adopt it's use in small organizations but on large scale resources, elastic and highly scalable cloud environment with immutable infrastructure isn't considered feasable. Once provisioned, a lot teams still have to work for a lot of overhead processes which will eventually increase delivery time and chances of human errors are still large resulting in inconsistent environment.
+### **Things still can’t hold on the grip**
+
+It's okay to adopt it's use in small organizations but on large scale resources, elastic and highly scalable cloud environment with immutable infrastructure isn't considered feasible. Once provisioned, a lot teams still have to work for a lot of overhead processes which will eventually increase delivery time and chances of human errors are still large resulting in inconsistent environment.
+
+Thus cloud providers and virtualization with services like Amazon UI were seen as a huge jump but then later settles down to nothing due to:
+
+1. Immutable infrastructure wasn’t considered feasible.
+    
+2. With Scaling, Manual Efforts were being increased.
+    
+3. Consistency was brought down on scaling of our infrastructure.
+    
+4. Again, our process of infrastructure design got way more complex and difficult to manage.
+    
 
 Everyone came up with different tools and services to provide all of these functionalities of automating infrastructure provisioning to deploy faster and in a consistent fashion cloud environment for which people chosen different tools some chosen basic tools like Shell script while many others chosen programming languages like Python, Perl, Ruby and Powershell.
 
-These problems were being solved by the sector including programming and code to solve the application infrastructure problem and this came to known as the Infrastructure as Code(Ias) including tools like Docker, Ansible, Terraform, CloudFoundation, Packer, Puppet, Vagrant and SaltStack.
+These problems were being solved by the sector **<mark>Defining &amp; Managing our infrastructure Configuration files instead of playing around with the virtualization and UI solutions by defining a Desired State for our infrastructure and then trying to make our state as close to the desired state and this came to known as the Infrastructure as Code(Ias)</mark>** including tools like **Open Tofu, CrossPlane, Ansible, Terraform, CloudFoundation, Packer, Puppet, Vagrant and SaltStack.**
 
 # Infrastructure as Code Introduction
 
@@ -85,8 +105,7 @@ Infrastructure as Code helps in automating all of these tasks without getting to
     
     **<mark>IaC Approach</mark>:** With IaC, you define your infrastructure requirements in a declarative or imperative script. This script can be version-controlled and executed to automatically provision the required infrastructure.
     
-
-1. ### Configuration of provisioned infrastructure
+    ### Configuration of provisioned infrastructure
     
     It manages the following tasks:
     
@@ -101,17 +120,16 @@ Infrastructure as Code helps in automating all of these tasks without getting to
     
     **<mark>IaC Approach</mark>:** IaC not only provisions infrastructure but also configures it. You can define the desired state of your infrastructure in code, ensuring consistency across different environments. Tools like Ansible, Chef, or Puppet can help with configuration management.
     
-
-1. ### Deployment of Application
+    ### Deployment of Application
     
-
-With Docker containers configuration and deployment step combined, involving configuration of our application and then packaging it with similar environment according to it's needs.
-
-So, if we have our application configured in packages and then if you provision infrastructure and install Docker runtime, we don't need to configure much of our servers and install much servers by just using one docker container.
-
-**<mark>Traditional Approach</mark>:** Deploying applications manually can be time-consuming and error-prone.
-
-**<mark>IaC Approach</mark>:** IaC extends to application deployment. You can define how your applications should be deployed, including dependencies and configurations. Continuous Integration/Continuous Deployment (CI/CD) pipelines can automate the deployment process, ensuring that code changes are consistently and reliably deployed.
+* With Docker containers configuration and deployment step combined, involving configuration of our application and then packaging it with similar environment according to it's needs.
+    
+* So, if we have our application configured in packages and then if you provision infrastructure and install Docker runtime, we don't need to configure much of our servers and install much servers by just using one docker container.
+    
+    **<mark>Traditional Approach</mark>:** Deploying applications manually can be time-consuming and error-prone.2.
+    
+    **<mark>IaC Approach</mark>:** IaC extends to application deployment. You can define how your applications should be deployed, including dependencies and configurations. Continuous Integration/Continuous Deployment (CI/CD) pipelines can automate the deployment process, ensuring that code changes are consistently and reliably deployed.
+    
 
 ## Attributes Characteristics
 
