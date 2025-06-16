@@ -1,6 +1,6 @@
 ---
 title: "Cilium Egress Gateway API: Implementing as an in-built Security through Kernel"
-seoTitle: "Cilium Egress Gateway API: Implementing as an in-built Security throug"
+seoTitle: "Cilium Egress Gateway: Secure API Integration"
 seoDescription: "Discover the power of Cilium Egress Gateway API for improved security and dynamic connectivity in Kubernetes with eBPF-based kernel implementation"
 datePublished: Mon Jun 16 2025 05:00:34 GMT+0000 (Coordinated Universal Time)
 cuid: cmbymlsuw000v02l58szx7mn7
