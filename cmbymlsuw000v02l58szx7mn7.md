@@ -1,7 +1,7 @@
 ---
 title: "Cilium Egress Gateway API: Implementing as an in-built Security through Kernel"
 seoTitle: "Cilium Egress Gateway API: Implementing as an in-built Security throug"
-seoDescription: "Cilium implements egress control at Layer 3/4,directly in the Linux kernel using eBPF & implements higher security in the Compromising & Vulnerable Network "
+seoDescription: "Discover the power of Cilium Egress Gateway API for improved security and dynamic connectivity in Kubernetes with eBPF-based kernel implementation"
 datePublished: Mon Jun 16 2025 05:00:34 GMT+0000 (Coordinated Universal Time)
 cuid: cmbymlsuw000v02l58szx7mn7
 slug: cilium-egress-gateway-api-implementing-as-an-in-built-security-through-kernel
